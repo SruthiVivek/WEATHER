@@ -1,0 +1,15 @@
+body{
+    background-image:url(./Girly\ Me.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#cname{
+    background-color: cadetblue;
+    color: aliceblue;
+}
+.c1{
+    background-color:rgb(13, 171, 155);
+}
+.list-group-item{
+    background-color:rgb(13, 171, 155); 
+}
